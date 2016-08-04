@@ -1,4 +1,9 @@
 /*vk.com/theycallmetony - пусть тот бедолага который будет рефакторить этот ужас, за который мне наверняка будет стыдно отпишет сюда если что не понятно*/
+#header1{
+	padding-left: 10px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	
+}
 .scrollable-menu {
     height: auto;
     max-height: 150px;
