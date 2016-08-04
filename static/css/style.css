@@ -23,6 +23,14 @@
 	height: 120px;
 	z-index: 1;
 }
+.timetable-cell-line{
+	position: absolute;
+	width: 85%;
+	left: 15%;
+	background-color: #000;
+	height: 1px;
+	top:50%;
+}
 .timetable-cell:hover {
 	position: relative;
 	border-left: 0;
